@@ -1,6 +1,6 @@
 {
   "license": "ISC",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "mdos-san",
   "name": "@mds-coding/database-criteria",
   "description": "`DatabaseCriteria` class definition",
